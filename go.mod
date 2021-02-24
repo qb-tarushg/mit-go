@@ -1,3 +1,3 @@
-module github.com/nsiregar/mit-go
+module github.com/qb-tarushg/mit-go
 
-go 1.13
+go 1.16
